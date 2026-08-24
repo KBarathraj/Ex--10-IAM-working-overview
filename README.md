@@ -34,6 +34,9 @@ To explore and configure AWS Identity and Access Management (IAM) users, groups,
 
 ## Output:
 
+<img width="1602" height="804" alt="image" src="https://github.com/user-attachments/assets/99e2c8f2-d88f-4c0a-94aa-18df54ff9db7" />
+<img width="1593" height="789" alt="image" src="https://github.com/user-attachments/assets/8fb689e8-b190-448b-9ff5-24f96ada4b2f" />
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/0df7ae38-88c1-49af-9d33-ea3c26d2c034" />
 <img width="1607" height="747" alt="image" src="https://github.com/user-attachments/assets/387cf75d-fac7-4267-993f-044587a4d9b5" />
 <img width="1271" height="639" alt="image" src="https://github.com/user-attachments/assets/376bc945-2f3b-4859-a80e-dad1fcc6432f" />
 <img width="1277" height="640" alt="image" src="https://github.com/user-attachments/assets/2ad05e73-d203-49c9-9d90-8a3dcdedbc8b" />
